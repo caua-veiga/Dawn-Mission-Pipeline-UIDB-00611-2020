@@ -1,0 +1,2 @@
+# Scripts and Documentation for the purpoused pipeline
+Here you will find all the three scripts described in the report, in addition to that we strongly recommend that you read the documentation of each script so that you can use then correctly.
